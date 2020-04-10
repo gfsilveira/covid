@@ -1,0 +1,532 @@
+,City
+0,Acrelândia
+1,Porto Acre
+2,Rio Branco
+4,Importados/Indefinidos
+5,Maceió
+6,Marechal Deodoro
+7,Porto Real do Colégio
+9,Anori
+10,Boca do Acre
+11,Careiro da Várzea
+12,Itacoatiara
+13,Manacapuru
+14,Manaus
+15,Novo Airão
+16,Parintins
+17,Santo Antônio do Içá
+18,Tonantins
+20,Macapá
+22,Alagoinhas
+23,Barra
+24,Barra do Rocha
+25,Barreiras
+26,Belmonte
+27,Brumado
+28,Camaçari
+29,Canarana
+30,Candeias
+31,Catu
+32,Coaraci
+33,Conceição do Jacuípe
+34,Conde
+35,Dias d'Ávila
+36,Feira de Santana
+37,Ilhéus
+38,Importados/Indefinidos
+39,Ipiaú
+40,Itabuna
+41,Itagibá
+42,Itajuípe
+43,Itamaraju
+44,Itororó
+45,Jequié
+46,Juazeiro
+47,Lauro de Freitas
+48,Medeiros Neto
+49,Nova Soure
+50,Pojuca
+51,Porto Seguro
+52,Prado
+53,Salvador
+54,Santa Cruz Cabrália
+55,São Domingos
+56,Teixeira de Freitas
+57,Utinga
+58,Vitória da Conquista
+60,Brasília
+62,Afonso Cláudio
+63,Alto Rio Novo
+64,Aracruz
+65,Cachoeiro de Itapemirim
+66,Cariacica
+67,Castelo
+68,Colatina
+69,Fundão
+70,Guarapari
+71,Importados/Indefinidos
+72,Itapemirim
+73,Linhares
+74,Santa Teresa
+75,São Mateus
+76,São Roque do Canaã
+77,Serra
+78,Sooretama
+79,Viana
+80,Vila Velha
+81,Vitória
+83,Águas Lindas de Goiás
+84,Anápolis
+85,Aparecida de Goiânia
+86,Bom Jesus de Goiás
+87,Caldas Novas
+88,Campestre de Goiás
+89,Catalão
+90,Cidade Ocidental
+91,Goianésia
+92,Goiânia
+93,Hidrolândia
+94,Importados/Indefinidos
+95,Itumbiara
+96,Jataí
+97,Luziânia
+98,Nova Veneza
+99,Paranaiguara
+100,Rio Verde
+101,São Luís de Montes Belos
+102,Senador Canedo
+103,Silvânia
+104,Trindade
+105,Valparaíso de Goiás
+107,Açailândia
+108,Imperatriz
+109,Paço do Lumiar
+110,São José de Ribamar
+111,São Luís
+113,Alfenas
+114,Araguari
+115,Arcos
+116,Barbacena
+117,Belo Horizonte
+118,Betim
+119,Boa Esperança
+120,Bom Despacho
+121,Campo Belo
+122,Campos Altos
+123,Capitólio
+124,Carmo do Cajuru
+125,Contagem
+126,Coronel Fabriciano
+127,Divinópolis
+128,Esmeraldas
+129,Extrema
+130,Governador Valadares
+131,Guimarânia
+132,Importados/Indefinidos
+133,Ipatinga
+134,Itabira
+135,Juiz de Fora
+136,Lagoa da Prata
+137,Lavras
+138,Manhuaçu
+139,Mariana
+140,Muriaé
+141,Nova Lima
+142,Patrocínio
+143,Poços de Caldas
+144,Pouso Alegre
+145,Ribeirão das Neves
+146,Sabará
+147,Santa Luzia
+148,Santana do Paraíso
+149,Santo Antônio do Monte
+150,São João del Rei
+151,Serra do Salitre
+152,Sete Lagoas
+153,Timóteo
+154,Toledo
+155,Uberaba
+156,Uberlândia
+157,Unaí
+159,Alcinópolis
+160,Batayporã
+161,Campo Grande
+162,Dourados
+163,Nova Andradina
+164,Ponta Porã
+165,Rio Verde de Mato Grosso
+166,Sidrolândia
+167,Três Lagoas
+169,Cuiabá
+170,Lucas do Rio Verde
+171,Nova Monte Verde
+172,Rondonópolis
+173,Sinop
+174,Tangará da Serra
+175,Várzea Grande
+177,Abaetetuba
+178,Altamira
+179,Ananindeua
+180,Barcarena
+181,Belém
+182,Benevides
+183,Castanhal
+184,Goianésia do Pará
+185,Itaituba
+186,Marabá
+187,Marituba
+188,Novo Progresso
+189,Oeiras do Pará
+190,Parauapebas
+191,Santarém
+192,São Geraldo do Araguaia
+193,Tucuruí
+195,Cabedelo
+196,Campina Grande
+197,Igaracy
+198,João Pessoa
+199,Junco do Seridó
+200,Patos
+201,Serra Branca
+202,Sousa
+204,Aliança
+205,Belo Jardim
+206,Cabo de Santo Agostinho
+207,Camaragibe
+208,Caruaru
+209,Fernando de Noronha
+210,Goiana
+211,Importados/Indefinidos
+212,Ipubi
+213,Jaboatão dos Guararapes
+214,Olinda
+215,Palmares
+216,Paulista
+217,Petrolina
+218,Recife
+219,São Lourenço da Mata
+221,Campo Maior
+222,Parnaíba
+223,São José do Divino
+224,Teresina
+226,Almirante Tamandaré
+227,Arapongas
+228,Araruna
+229,Araucária
+230,Assis Chateaubriand
+231,Cambé
+232,Campina Grande do Sul
+233,Campo Largo
+234,Campo Magro
+235,Campo Mourão
+236,Cascavel
+237,Castro
+238,Cianorte
+239,Colombo
+240,Contenda
+241,Cornélio Procópio
+242,Curitiba
+243,Faxinal
+244,Fazenda Rio Grande
+245,Foz do Iguaçu
+246,Francisco Beltrão
+247,Goioerê
+248,Guaíra
+249,Guarapuava
+250,Ibaiti
+251,Importados/Indefinidos
+252,Iretama
+253,Lapa
+254,Leópolis
+255,Londrina
+256,Mandirituba
+257,Marechal Cândido Rondon
+258,Maringá
+259,Mariópolis
+260,Matinhos
+261,Medianeira
+262,Palmeira
+263,Paranaguá
+264,Paranavaí
+265,Pato Branco
+266,Peabiru
+267,Pinhais
+268,Piraquara
+269,Ponta Grossa
+270,Quatiguá
+271,Quatro Barras
+272,Rio Branco do Sul
+273,Rio Negro
+274,São José dos Pinhais
+275,São Manoel do Paraná
+276,Sarandi
+277,Telêmaco Borba
+278,Terra Boa
+279,Terra Rica
+280,Umuarama
+281,União da Vitória
+282,Verê
+284,Angra dos Reis
+285,Araruama
+286,Arraial do Cabo
+287,Barra do Piraí
+288,Barra Mansa
+289,Belford Roxo
+290,Campos dos Goytacazes
+291,Duque de Caxias
+292,Guapimirim
+293,Iguaba Grande
+294,Importados/Indefinidos
+295,Itaboraí
+296,Itaguaí
+297,Macaé
+298,Magé
+299,Mangaratiba
+300,Maricá
+301,Mesquita
+302,Miguel Pereira
+303,Nilópolis
+304,Niterói
+305,Nova Iguaçu
+306,Petrópolis
+307,Porciúncula
+308,Queimados
+309,Resende
+310,Rio Bonito
+311,Rio das Ostras
+312,Rio de Janeiro
+313,São Gonçalo
+314,São João de Meriti
+315,São Pedro da Aldeia
+316,Seropédica
+317,Teresópolis
+318,Três Rios
+319,Valença
+320,Volta Redonda
+322,Açu
+323,Apodi
+324,Baía Formosa
+325,Caraúbas
+326,Carnaubais
+327,Ceará-Mirim
+328,Extremoz
+329,Importados/Indefinidos
+330,Luís Gomes
+331,Macaíba
+332,Monte Alegre
+333,Mossoró
+334,Natal
+335,Parnamirim
+336,Passa e Fica
+337,Santo Antônio
+338,São Gonçalo do Amarante
+339,São José de Mipibu
+340,Tibau
+342,Jaru
+343,Ji-Paraná
+344,Porto Velho
+346,Boa Vista
+347,Bonfim
+348,Cantá
+350,Alegrete
+351,Alvorada
+352,Anta Gorda
+353,Bagé
+354,Bento Gonçalves
+355,Cachoeira do Sul
+356,Cachoeirinha
+357,Campo Bom
+358,Canguçu
+359,Canoas
+360,Capão da Canoa
+361,Capão do Leão
+362,Carlos Barbosa
+363,Caxias do Sul
+364,Cerro Grande do Sul
+365,Charqueadas
+366,Cruzeiro do Sul
+367,Dois Irmãos
+368,Dom Pedrito
+369,Eldorado do Sul
+370,Erechim
+371,Estância Velha
+372,Estrela
+373,Farroupilha
+374,Garibaldi
+375,Gravataí
+376,Guaíba
+377,Ivoti
+378,Lajeado
+379,Marau
+380,Nova Palma
+381,Novo Hamburgo
+382,Osório
+383,Paraí
+384,Passo Fundo
+385,Pelotas
+386,Piratini
+387,Porto Alegre
+388,Rio Grande
+389,Rolante
+390,Santa Maria
+391,Sant'Ana do Livramento
+392,Santa Rosa
+393,Santiago
+394,Santo Antônio da Patrulha
+395,São Domingos do Sul
+396,São Gabriel
+397,São Leopoldo
+398,São Sebastião do Caí
+399,Sapiranga
+400,Sapucaia do Sul
+401,Serafina Corrêa
+402,Taquara
+403,Taquari
+404,Torres
+405,Tramandaí
+406,Uruguaiana
+407,Viamão
+408,Vila Maria
+410,Antônio Carlos
+411,Araranguá
+412,Balneário Arroio do Silva
+413,Balneário Camboriú
+414,Biguaçu
+415,Blumenau
+416,Braço do Norte
+417,Brusque
+418,Camboriú
+419,Canelinha
+420,Chapecó
+421,Criciúma
+422,Florianópolis
+423,Gaspar
+424,Governador Celso Ramos
+425,Gravatal
+426,Içara
+427,Imbituba
+428,Importados/Indefinidos
+429,Indaial
+430,Irati
+431,Itajaí
+432,Itapema
+433,Jaguaruna
+434,Jaraguá do Sul
+435,Joaçaba
+436,Joinville
+437,Lages
+438,Laguna
+439,Mafra
+440,Morro da Fumaça
+441,Navegantes
+442,Palhoça
+443,Papanduva
+444,Paulo Lopes
+445,Pescaria Brava
+446,Pomerode
+447,Porto Belo
+448,Rancho Queimado
+449,São Francisco do Sul
+450,São José
+451,São Lourenço do Oeste
+452,São Ludgero
+453,São Pedro de Alcântara
+454,Siderópolis
+455,Tijucas
+456,Timbé do Sul
+457,Tubarão
+458,Urussanga
+460,Aracaju
+461,Capela
+462,Nossa Senhora da Glória
+463,Propriá
+465,Adamantina
+466,Águas de Lindóia
+467,Agudos
+468,Americana
+469,Araçatuba
+470,Araraquara
+471,Arujá
+472,Assis
+473,Atibaia
+474,Barueri
+475,Bauru
+476,Brodowski
+477,Cachoeira Paulista
+478,Caieiras
+479,Cajamar
+480,Campinas
+481,Carapicuíba
+482,Cotia
+483,Cravinhos
+484,Diadema
+485,Dracena
+486,Embu das Artes
+487,Ferraz de Vasconcelos
+488,Franca
+489,Francisco Morato
+490,Franco da Rocha
+491,Guarujá
+492,Guarulhos
+493,Hortolândia
+494,Importados/Indefinidos
+495,Indaiatuba
+496,Iracemápolis
+497,Itanhaém
+498,Itapecerica da Serra
+499,Itapevi
+500,Itaquaquecetuba
+501,Itararé
+502,Itu
+503,Itupeva
+504,Jaboticabal
+505,Jaguariúna
+506,Jandira
+507,Jaú
+508,Jundiaí
+509,Lençóis Paulista
+510,Limeira
+511,Louveira
+512,Mairiporã
+513,Marília
+514,Matão
+515,Mauá
+516,Mogi das Cruzes
+517,Mogi Guaçu
+518,Osasco
+519,Paulínia
+520,Penápolis
+521,Piracicaba
+522,Pirajuí
+523,Poá
+524,Porto Feliz
+525,Praia Grande
+526,Promissão
+527,Ribeirão Pires
+528,Ribeirão Preto
+529,Rio Claro
+530,Salto de Pirapora
+531,Santa Isabel
+532,Santana de Parnaíba
+533,Santo André
+534,Santos
+535,São Bernardo do Campo
+536,São Caetano do Sul
+537,São José do Rio Pardo
+538,São José do Rio Preto
+539,São José dos Campos
+540,São Paulo
+541,São Sebastião
+542,São Vicente
+543,Sorocaba
+544,Suzano
+545,Taboão da Serra
+546,Tatuí
+547,Taubaté
+548,Valinhos
+549,Vargem Grande Paulista
+550,Vinhedo
+551,Votorantim
+552,Votuporanga
+554,Araguaína
+555,Palmas
